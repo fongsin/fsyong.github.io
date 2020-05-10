@@ -1,0 +1,20 @@
+.normal-score{
+    position: relative; right:110px; bottom: 23px;
+    font-family: sans-serif;
+}
+
+.title{
+    text-align: center;
+    font-family: 'Ma Shan Zheng', sans-serif;
+    font-size: 70px;
+}
+
+.body{
+    background-image: url("https://image.freepik.com/free-vector/desert-landscape-with-cactus-sunset-background_43605-1150.jpg");
+    background-size: 80rem;
+    background-position: center;
+}
+
+.instructions{
+    position: relative; bottom: 17px;
+}
